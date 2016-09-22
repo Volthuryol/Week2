@@ -1,0 +1,11 @@
+google maps api key:
+AIzaSyDGPYE8ZkdO4QmSnUPmkuSVVMDwf4L1Luk //paste in zipcode instead of address works the same.
+https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway,+Mountain+View,+CA&key=AIzaSyDGPYE8ZkdO4QmSnUPmkuSVVMDwf4L1Luk
+
+37.9081059,
+            "lng": -82.65828309999999
+
+dark sky api key: 
+13fc88504c837e8f47ca908c7f4d4628
+
+

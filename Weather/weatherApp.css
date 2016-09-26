@@ -1,10 +1,30 @@
 .card{
-  /*padding-left: 20%;*/
-  /*border-left: 20%;*/
-  margin-left: 10%;
-  margin-bottom: 10%;
+  margin-top: 20%;
+  border-left: 20%;
+  margin-left: 20px;
+  margin-bottom: 20px;
   height: 480px;
   width: 260px;
-  background-image: url(http://i.i.cbsi.com/cnwk.1d/i/tim/2012/02/22/fmimg518127853912291699.jpg);
+  /*background-image: url(http://i.i.cbsi.com/cnwk.1d/i/tim/2012/02/22/fmimg518127853912291699.jpg);*/
 }
 
+.col-md-3{
+  margin: 20px; 
+  border-radius: 10px; 
+  border: 1px solid #333333
+}
+#zip{
+  float: left;
+}
+#submit{
+  float: left;
+}
+ul{
+  list-style: none;
+}
+.row{
+  text-align: center;
+  padding: 0 10px;
+  border-top: 2px solid black; 
+  border-bottom: 2px solid black;
+}
